@@ -22,22 +22,22 @@ Requirements:
 Guidelines:
   -  Ensure that each arithmetic operation is implemented in a separate function for modularity.
   -  Handle division by zero error to avoid program crashes.
-  -  Use a loop to keep the program running until the user chooses to quit. M
-  -  ake sure to validate user input to ensure it's a valid menu choice and numeric input for operands.
+  -  Use a loop to keep the program running until the user chooses to quit. 
+  -  Make sure to validate user input to ensure it's a valid menu choice and numeric input for operands.
   -  Display clear and user-friendly messages and prompts.
 Example Output:
-Python Calculator
-Menu:
+  Python Calculator
+  Menu:
 
-Addition
-Subtraction
-Multiplication
-Division
-Quit
-Enter your choice (1/2/3/4/5): 1
-Enter the first number: 10
-Enter the second number: 5
-Result: 10 + 5 = 15
-
-Enter your choice (1/2/3/4/5): 5
-Goodbye!
+  Addition
+  Subtraction
+  Multiplication
+  Division
+  Quit
+  Enter your choice (1/2/3/4/5): 1
+  Enter the first number: 10
+  Enter the second number: 5
+  Result: 10 + 5 = 15
+  
+  Enter your choice (1/2/3/4/5): 5
+  Goodbye!
