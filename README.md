@@ -34,6 +34,7 @@ Example Output:
   3. Multiplication
   4. Division
   5. Quit
+
   Enter your choice (1/2/3/4/5): 1
 
   Enter the first number: 10
