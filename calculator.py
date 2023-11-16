@@ -27,9 +27,10 @@ def solution(choice,num, num1):
     elif choice == 4:
         if num % num1 == 0:
             result = int(division(num, num1))
+            print(f'Result: {num} / {num1} = {result}')
         else:
             result = division(num, num1)
-        print(f'Result: {num} / {num1} = {result:.2f}')
+            print(f'Result: {num} / {num1} = {result:.2f}')
 
 
 def main():
