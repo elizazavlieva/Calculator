@@ -1,6 +1,6 @@
 # Calculator
 
-Simple Calculator progam made with python using<br>
+Simple Calculator program made with python using<br>
 Tkinter library. To run it on your system follow steps given below.
 
 1.Clone this repository<br>
