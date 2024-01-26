@@ -28,8 +28,7 @@ def button_equal():
     try:
         # eval() method parses the expression passed to this method and runs python expression (code) within the program
         result = str(eval(expression))
-    except:
-        ZeroDivisionError
+    except ZeroDivisionError:
         result = 'Error'
     input_text.set(result)
     expression = ""
